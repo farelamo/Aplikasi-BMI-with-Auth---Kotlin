@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "142469715275",
+    "project_id": "basisdata-24b2e",
+    "storage_bucket": "basisdata-24b2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:142469715275:android:894f13ce8df23c1ddd44ce",
+        "android_client_info": {
+          "package_name": "com.example.aplikasi_pertama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "142469715275-h0kpje63oan6i2v3gh81nu2gi2n49esi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYBezq4eeh4guTF_z0Lg6h6ZU2j9hwxyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "142469715275-h0kpje63oan6i2v3gh81nu2gi2n49esi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
